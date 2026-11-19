@@ -1,3 +1,4 @@
+printf(te)
 #First Edit
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
